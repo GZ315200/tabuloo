@@ -1,0 +1,11 @@
+{
+	"post-queue": "Cola de Mensajes",
+	"description": "No hay mensajes en la cola de mensajes. <br>Para habilitar esta función, vaya a <a href=\"%1\">Configuración &rarr; Mensaje &rarr; Restricciones de Mensajes</a><strong></strong>",
+	"user": "Usuario",
+	"category": "Categoría",
+	"title": "Título",
+	"content": "Contenido",
+	"posted": "Publicado",
+	"reply-to": "Responder a %1",
+	"content-editable": "Puedes hacer click en contenido individual para editar antes de enviarlo."
+}

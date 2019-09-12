@@ -1,0 +1,19 @@
+{
+	"you-are-on": "Info - Tu lieto <strong>%1:%2</strong>",
+	"nodes-responded": "%1 serveri atbildēja %2ms laikā!",
+	"host": "serveris",
+	"pid": "pid",
+	"nodejs": "nodejs",
+	"online": "tiešsaistē",
+	"git": "git",
+	"memory": "atmiņa",
+	"load": "system load",
+	"cpu-usage": "cpu usage",
+	"uptime": "darbspējas laiks",
+
+	"registered": "Reģistrētie",
+	"sockets": "Tīkla savienojumi",
+	"guests": "Viesi",
+
+	"info": "Info"
+}

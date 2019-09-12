@@ -1,0 +1,82 @@
+{
+	"section-general": "Общие",
+	"general/dashboard": "Панель управления",
+	"general/homepage": "Домашняя страница",
+	"general/navigation": "Навигация",
+	"general/languages": "Языки",
+	"general/sounds": "Звуки",
+	"general/social": "Шэринг",
+
+	"section-manage": "Управление",
+	"manage/categories": "Категории",
+	"manage/privileges": "Привилегии",
+	"manage/tags": "Теги",
+	"manage/users": "Пользователи",
+	"manage/admins-mods": "Админы и Модераторы",
+	"manage/registration": "Очередь на регистрацию",
+	"manage/post-queue": "Очередь публикации",
+	"manage/groups": "Группы",
+	"manage/ip-blacklist": "Блокировка IP",
+	"manage/uploads": "Загрузки",
+
+	"section-settings": "Настройки",
+	"settings/general": "Главные",
+	"settings/reputation": "Репутация",
+	"settings/email": "Электронная почта",
+	"settings/user": "Пользователь",
+	"settings/group": "Группа",
+	"settings/guest": "Гости",
+	"settings/uploads": "Загрузки",
+	"settings/post": "Сообщения",
+	"settings/chat": "Чат",
+	"settings/pagination": "Пагинация",
+	"settings/tags": "Теги",
+	"settings/notifications": "Оповещения",
+	"settings/cookies": "Куки",
+	"settings/web-crawler": "Индексация",
+	"settings/sockets": "Сокеты",
+	"settings/advanced": "Продвинутые",
+
+	"settings.page-title": "%1 Настройки",
+
+	"section-appearance": "Вид",
+	"appearance/themes": "Темы",
+	"appearance/skins": "Скины",
+	"appearance/customise": "Настройка контента (HTML/JS/CSS)",
+
+	"section-extend": "Расширения",
+	"extend/plugins": "Плагины",
+	"extend/widgets": "Виджеты",
+	"extend/rewards": "Награды",
+
+	"section-social-auth": "Авторизация",
+
+	"section-plugins": "Плагины",
+	"extend/plugins.install": "Установка плагинов",
+
+	"section-advanced": "Расширенные",
+	"advanced/database": "База данных",
+	"advanced/events": "События",
+	"advanced/hooks": "Hooks",
+	"advanced/logs": "Логи",
+	"advanced/errors": "Ошибки",
+	"advanced/cache": "Кэш",
+	"development/logger": "Журнал событий",
+	"development/info": "Инфо",
+
+	"rebuild-and-restart-forum": "Пересобрать и перезапустить форум",
+	"restart-forum": "Перезапустить Форум",
+	"logout": "Выйти",
+	"view-forum": "Просмотреть Форум",
+
+	"search.placeholder": "Поиск настроек",
+	"search.no-results": "Нет результата...",
+	"search.search-forum": "Поиск по форуму <strong></strong>",
+	"search.keep-typing": "Введите больше данных чтобы увидеть результаты...",
+	"search.start-typing": "Начните ввод данных чтобы увидеть результаты...",
+
+	"connection-lost": "Соединение с %1 потеряно, пытаюсь переподключиться...",
+
+	"alerts.version": "Запущена <strong>версия v%1 NodeBB</strong>",
+	"alerts.upgrade": "Обновление до v%1"
+}

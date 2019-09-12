@@ -1,0 +1,22 @@
+{
+	"available": "Доступные виджеты",
+	"explanation": "Выберете виджет из выпадающего меню и затем перетащите его на виджет шаблона слева.",
+	"none-installed": "Виджеты не найдены! Активируйте основной плагин виджетов в панели управления <a href=\"%1\">плагинов</a>",
+	"clone-from": "Скопировать виджет из",
+	"containers.available": "Доступные контейнеры",
+	"containers.explanation": "Перетащите вверх любого активного виджета",
+	"containers.none": "Нет",
+	"container.well": "Хорошо",
+	"container.jumbotron": "Медиа-панель",
+	"container.panel": "Панель",
+	"container.panel-header": "Заголовок понели",
+	"container.panel-body": "Тело панели",
+	"container.alert": "Предупреждение",
+
+	"alert.confirm-delete": "Вы уверены что хотите удалить этот виджет?",
+	"alert.updated": "Виджеты обновлены",
+	"alert.update-success": "Виджеты успешно обновлены",
+	"alert.clone-success": "Виджеты успешно скопированы",
+
+	"error.select-clone": "Пожалуйста, выберите страницу с которой копировать виджеты"
+}

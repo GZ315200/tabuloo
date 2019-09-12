@@ -1,0 +1,19 @@
+{
+	"you-are-on": "Informácie - Nachádzate sa na <strong>%1:%2</strong>",
+	"nodes-responded": "%1 väzieb odpovedalo počas %2ms.",
+	"host": "hosť",
+	"pid": "pid",
+	"nodejs": "nodejs",
+	"online": "pripojený",
+	"git": "git",
+	"memory": "pamäť",
+	"load": "system load",
+	"cpu-usage": "cpu usage",
+	"uptime": "čas spustenia",
+
+	"registered": "Registrovaný",
+	"sockets": "Sockety",
+	"guests": "Hostia",
+
+	"info": "Informácie"
+}

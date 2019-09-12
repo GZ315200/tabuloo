@@ -1,0 +1,11 @@
+{
+	"post-queue": "Post in attesa",
+	"description": "Non ci sono post nei post in attesa. <br> Per abilitare questa funzione, vai in <a href=\"%1\">Impostazioni &rarr; Post &rarr; Restrizioni pubblicazione</a> e abilita Post in attesa",
+	"user": "Utente",
+	"category": "Categoria",
+	"title": "Titolo",
+	"content": "Contenuto",
+	"posted": "Pubblicato",
+	"reply-to": "Rispondi a \"%1\"",
+	"content-editable": "Puoi cliccare su singoli contenuti per modificarli prima della pubblicazione."
+}

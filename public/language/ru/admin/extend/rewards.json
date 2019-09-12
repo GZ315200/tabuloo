@@ -1,0 +1,17 @@
+{
+	"rewards": "Награды",
+	"condition-if-users": "Если участник",
+	"condition-is": "Есть",
+	"condition-then": "Тогда",
+	"max-claims": "Количество наград для участников",
+	"zero-infinite": "Введите 0 для бесконечного количества",
+	"delete": "Удалить",
+	"enable": "Включить",
+	"disable": "Выключить",
+	"control-panel": "Управление наградами",
+	"new-reward": "Новая награда",
+
+	"alert.delete-success": "Награды успешно удалены",
+	"alert.no-inputs-found": "Не правильная награда",
+	"alert.save-success": "Награды успешно сохранены"
+}
